@@ -1,5 +1,5 @@
 # Use WLS built locally
-FROM wlslocal
+FROM weblogic
 
 USER root
 
